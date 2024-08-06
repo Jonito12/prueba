@@ -10,7 +10,7 @@ namespace joni
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Holis");
+            Console.WriteLine("BOCA");
 
             Console.ReadKey();
         }
